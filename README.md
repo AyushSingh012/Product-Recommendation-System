@@ -5,36 +5,9 @@ In this project, a product recommendation system has been created on a local hos
 
 
 
-
-
-
 ## Dataset
 
 [Dataset Link](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
-
-### System Requirements 
-#### Hardware Requirements:
-
-Minimum Hardware Requirements:  
-Computer: Personal  
-Processor: Pentium dual core       
-RAM: 2gb      
-Hard Disk Drive: 10 GB
-
-Recommended Hardware Requirements:  
-Computer: Personal  
-Processor: Pentium quad core  
-RAM: 4 GB  
-Hard Disk Drive: 50 GB  
-Solid State Drive: 50 GB  
-Graphic Card: NVIDIA GeForce GT 710  
-
-My Hardware Specifications:  
-Computer: Personal  
-Processor: Intel i5 9th gen Hexa core   
-RAM: 8 GB  
-Solid State Drive: 512 GB   
-Graphic Card: NVIDIA GeForce GTX 1650  
 
 
 ### Software/Library’s Specific Version Requirements
@@ -46,21 +19,13 @@ tensorflow-- 2.9.X
 keras-- 2.9.X
 
 
-
-
-
-
-
 ## Screenshots
 ### Sample Data
-![Screenshot](https://drive.google.com/file/d/1CKvO4dd7RIFgWMESlig-tN1JbLs2Tr76/view?usp=share_link)
-https://drive.google.com/file/d/1CKvO4dd7RIFgWMESlig-tN1JbLs2Tr76/view?usp=share_link
+![Sample Data](https://github.com/AyushSingh012/Product-Recommendation-System/assets/109151442/82663abd-b343-4004-90ca-4756050802bb)
+
 
 ### Sample Output 
-
-![Screenshot](https://drive.google.com/file/d/1CMaMMuT9snPR-Q37gyvw6ozw3-mQia50/view?usp=sharing)
-
-https://drive.google.com/file/d/1CMaMMuT9snPR-Q37gyvw6ozw3-mQia50/view?usp=sharing
+![Sample output](https://github.com/AyushSingh012/Product-Recommendation-System/assets/109151442/d76b549a-4263-4939-9151-68ed4d09c9af)
 
 
 ## Deployment
